@@ -1,0 +1,7 @@
+Commando's Assault Rifle
+
+Perk Select (When this equipment enters, create a 1/1 colorless Human Soldier creature token, then attach this to it.)
+
+Equipped creature gets +2/+1 and has double strike and "Whenever this creature kills another creature, you pick one card at random from defending player's hand. That player reveals it."
+
+Equip 3 (Attach only to target creature you control. Equip only as a sorcery.)

@@ -1,0 +1,3 @@
+Outbreak
+
+Destroy target monster. Its controller gets a pathogen.

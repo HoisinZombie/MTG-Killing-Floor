@@ -1,0 +1,7 @@
+Bloat
+
+4/2
+
+When the Bloat enters, select any target. As long as the bloat is on the field, target takes 1 damage per upkeep. When the target dies, a new target must be selected.
+
+When the Bloat dies, deal 1 damage to all normal creatures and 2 damage to all legendary creatures.

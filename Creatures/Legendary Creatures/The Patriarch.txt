@@ -1,0 +1,11 @@
+The Patriarch
+
+4/*
+
+The Patriarch's toughness is equal to however many creatures you control, doubled.
+
+Sacrifice a creature: Add 2 colorless. A creature sacrificed this way returns on your next upkeep. Use only once per turn.
+
+Invisibility (4 colorless): The Patriarch gains shroud until end of turn. Skip your combat phase.
+
+When the Patriarch dies, destroy all creatures you control.

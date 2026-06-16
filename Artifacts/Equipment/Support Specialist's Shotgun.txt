@@ -1,9 +1,7 @@
-Sharpshooter's Rifle
+Support Specialist's Shotgun
 
 Perk Select (When this equipment enters, create a 1/1 colorless Human Soldier creature token, then attach this to it.)
 
-Equipped creature gets +5/+1 and has first strike and "This creature does not untap on your upkeep.
-
-1: Untap."
+Equipped Creature gets +1/+1 and has menace and "If this creature would take damage, negate all damage to you and your other creatures this turn."
 
 Equip 3 (Attach only to target creature you control. Equip only as a sorcery.)

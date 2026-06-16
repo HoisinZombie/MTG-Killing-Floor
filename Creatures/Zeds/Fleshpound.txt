@@ -1,0 +1,7 @@
+Fleshpound
+
+Trample
+
+4/8
+
+Enrage: Whenever the Fleshpound is targeted or blocks, flip its power and toughness until it deals damage, is targeted again, or next end step.

@@ -1,0 +1,9 @@
+Stalker
+
+2/1
+
+This spell cannot be countered.
+
+Can only be targeted when it's the owner of this card's turn.
+
+(1 colorless): Choose an opponent. That opponent gains control of this card until end of turn, then return to original owner's field.

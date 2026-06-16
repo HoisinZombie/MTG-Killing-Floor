@@ -1,0 +1,8 @@
+Neurotoxin
+(Saga)
+
+I. Equipped creatures you control deal double damage.
+
+II. Equipped creatures deal double damage.
+
+III. Equipped creatures die.

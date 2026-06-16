@@ -1,0 +1,3 @@
+Trader
+
+Each turn, on your end step, you may sacrifice an artifact or enchantment. If you do, draw a card.

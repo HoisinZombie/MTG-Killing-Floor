@@ -1,0 +1,5 @@
+Containment Breach
+
+Kicker: Sacrifice a Legendary creature.
+
+Sacrifice a creature, artifact or enchantment. Search your graveyard for a creature and return it to the battlefield. If this card was kicked, also return a creature from exile to the battlefield. It is exiled at the end of the current phase.

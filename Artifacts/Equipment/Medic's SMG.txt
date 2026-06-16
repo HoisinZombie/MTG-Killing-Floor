@@ -1,9 +1,9 @@
-Sharpshooter's Rifle
+Medic's SMG
 
 Perk Select (When this equipment enters, create a 1/1 colorless Human Soldier creature token, then attach this to it.)
 
-Equipped creature gets +5/+1 and has first strike and "This creature does not untap on your upkeep.
+Equipped creature gets +0/+4 and has "{t}: Regenerate a creature you control.
 
-1: Untap."
+When this creature leaves the battlefield, gain 3 health."
 
 Equip 3 (Attach only to target creature you control. Equip only as a sorcery.)

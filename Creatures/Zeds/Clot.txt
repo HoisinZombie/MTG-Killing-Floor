@@ -1,0 +1,7 @@
+Clot
+
+1/1
+
+Every upkeep, create a Wretch.
+
+{t}: Tap target opponent creature until the Clot is destroyed. The Clot cannot untap until target creature leaves the battlefield. This abilitiy can only be used at sorcery speed unless you control 3 or more zombies.

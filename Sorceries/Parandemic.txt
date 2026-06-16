@@ -1,0 +1,3 @@
+Parandemic
+
+On your next upkeep, destroy all creatures you control. For each creature destroyed this way, deal 10 damage to each player.

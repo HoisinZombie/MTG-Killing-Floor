@@ -1,0 +1,7 @@
+Berserker's Fire Axe
+
+Perk Select (When this equipment enters, create a 1/1 colorless Human Soldier creature token, then attach this to it.)
+
+Equipped creature gets +3/+3 and has vigilance.
+
+Equip 3 (Attach only to target creature you control.)

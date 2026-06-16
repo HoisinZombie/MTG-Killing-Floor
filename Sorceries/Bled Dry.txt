@@ -1,0 +1,3 @@
+Bled Dry
+
+All opponents lose health equal to the amount of creautres you control. If y ou own less than 6 lands, opponents instead lose health equal to double the amount of lands you have.

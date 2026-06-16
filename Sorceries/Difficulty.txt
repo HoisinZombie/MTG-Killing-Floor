@@ -1,0 +1,13 @@
+Difficulty
+
+Choose an opponent. They choose one:
+
+Beginner: Owner of this card draws two cards.
+
+Normal: Owner of this card searches their library for a creature with converted mana cost 4 or less. They put it on top of their library, then shuffle.
+
+You get 3 colorless mana.
+
+Hard: Owner of this card makes two copies of a creature they control.
+
+Search your library for an artifact or enchantment. Put it in your hand, then shuffle.

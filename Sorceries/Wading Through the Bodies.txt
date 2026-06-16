@@ -1,0 +1,5 @@
+Wading Through the Bodies
+
+If this card is in your hand at the beginning of your end step, you must play it without paying its mana cost.
+
+If you killed a creature with combat damage this turn, search your library for a basic land card and add it to your hand. Shuffle Wading Through the Bodies into your library.

@@ -1,0 +1,7 @@
+Scrake
+
+Menace
+
+5/4
+
+If the Scrake takes damage but does not die, deal 3 damage to up to 6 targets. The Scrake recieves 2 stun counters.
