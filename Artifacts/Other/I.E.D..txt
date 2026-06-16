@@ -1,0 +1,7 @@
+I.E.D.
+
+When I.E.D. enters, all players roll a 6 sided die. Whichever player rolls the lowest gains control of this card.
+
+As long as I.E.D. is on your field, when 3 or more creatures you control die in a single turn, play a creature from  your hand without paying its cost.
+
+{t}, 3 colorless: Sacrifice I.E.D. Destroy all creatures you control.

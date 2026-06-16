@@ -1,0 +1,5 @@
+Dosh
+
+Every time a creature you control kills another creature, make a treasure token.
+
+{t}: Donate this card to another player.
