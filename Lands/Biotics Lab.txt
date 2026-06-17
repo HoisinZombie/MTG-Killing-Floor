@@ -1,0 +1,5 @@
+Biotics Lab
+
+{t}: 1 black mana
+
+{t}: This turn, zombies get +1/+1.

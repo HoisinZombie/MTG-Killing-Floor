@@ -1,0 +1,5 @@
+One in the Pipe
+
+Boss Wave (When you use the last of your tappable mana to cast this spell, your legendary creatures get +x/+x where x is equal to the amount of creatures in your graveyard until the end of combat.)
+
+Target creature gains menace until next end phase.

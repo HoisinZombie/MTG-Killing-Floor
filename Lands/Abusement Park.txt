@@ -1,0 +1,5 @@
+Abusement Park
+
+{t}: 1 colorless.
+
+{t}, 1 black, Sacrifice Abusement Park: Trigger Boss Wave (When you use the last of your tappable mana to cast this spell, your legendary creatures get +x/+x where x is equal to the amount of creatures in your graveyard until the end of combat.)

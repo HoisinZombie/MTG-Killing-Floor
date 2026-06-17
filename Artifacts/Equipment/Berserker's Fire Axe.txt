@@ -2,6 +2,6 @@ Berserker's Fire Axe
 
 Perk Select (When this equipment enters, create a 1/1 colorless Human Soldier creature token, then attach this to it.)
 
-Equipped creature gets +3/+3 and has vigilance.
+Equipped creature gets +2/+3 and has vigilance and "Whenever this creature kills another creature, trigger Zed Time (Draw a card or untap target permanent you control.)
 
 Equip 3 (Attach only to target creature you control.)

@@ -1,0 +1,5 @@
+Farmhouse
+
+A an additional cost to play this land, discard a card from your hand.
+
+{t}: 1 Green and 1 black

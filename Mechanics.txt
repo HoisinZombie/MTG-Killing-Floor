@@ -1,0 +1,4 @@
+Zed Time (Draw a card or untap target permanent you control.)
+
+
+Boss Wave (When you use the last of your tappable mana to cast this spell, your legendary creatures get +x/+x where x is equal to the amount of creatures in your graveyard until the end of combat.)
