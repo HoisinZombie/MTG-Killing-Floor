@@ -1,0 +1,8 @@
+King Fleshpound
+Double strike
+
+4/*
+
+King Fleshpound's toughness is equal to creatures in your graveyard.
+
+Every time a creature you control dies, play a creature from your hand without paying its cost.

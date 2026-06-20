@@ -1,0 +1,8 @@
+The Matriarch
+Haste, Menace
+
+4/3
+
+Every time the Matriarch destroys a creature in combat, she gains +1/+1.
+
+{t}, 1 red: Put a -1/-1 counter on the Matriarch until your next upkeep. Create a 2/2 colorless Robot token.

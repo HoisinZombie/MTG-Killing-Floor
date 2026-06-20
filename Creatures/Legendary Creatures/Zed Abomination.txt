@@ -1,0 +1,5 @@
+Zed Abomination
+
+3/4
+
+When Zed Abomination dies, create 2, 1/1 Abomination Spawn tokens with deathtouch. If you have 2 Abomination Spawn tokens on your upkeep, destroy them. Zed Abomination returns from your graveyard to the battlefield tapped.
